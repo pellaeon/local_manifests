@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remove-project name="CyanogenMod/android_bionic" />
+
+<!-- Device Stuff for CM-10.1 -->
+
+<project path="bionic" name="Team-OneSV/android_bionic" revision="cm-10.1" />
+<project path="kernel/htc/k2" name="Team-OneSV/android_kernel_k2u-jb-3.4.10-cl157896" revision="master" />
+<project path="device/htc/msm8960-common" name="Team-OneSV/android_device_htc_msm8960-common" revision="cm-10.1" />
+<project path="device/htc/k2_cl" name="Team-OneSV/android_device_htc_k2_cl" revision="cm-10.1" />
+<project path="vendor/htc/k2_cl" name="Team-OneSV/android_vendor_htc_k2_cl" revision="cm-10.1" />
+</manifest>
