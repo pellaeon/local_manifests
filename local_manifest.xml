@@ -2,6 +2,7 @@
 <manifest>
 
 <remove-project name="CyanogenMod/android_bionic" />
+<remove-project name="CyanogenMod/android_frameworks_av" />
 
 <!-- Device Stuff for CM-10.1 -->
 
