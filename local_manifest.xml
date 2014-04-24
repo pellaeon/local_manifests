@@ -11,5 +11,7 @@
 <project path="device/htc/msm8960-common" name="Team-OneSV/android_device_htc_msm8960-common" revision="cm-10.1" />
 <project path="device/htc/k2_cl" name="Team-OneSV/android_device_htc_k2_cl" revision="cm-10.1" />
 <project path="vendor/htc/k2_cl" name="Team-OneSV/android_vendor_htc_k2_cl" revision="cm-10.1" />
+<project path="device/htc/k2_u" name="Team-OneSV/android_device_htc_k2_u" revision="cm-10.1" />
+<project path="vendor/htc/k2_u" name="Team-OneSV/android_vendor_htc_k2_u" revision="master" />
 <project path="frameworks/av" name="Team-OneSV/android_frameworks_av" revision="cm-10.1-k2" />
 </manifest>
